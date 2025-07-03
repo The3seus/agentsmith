@@ -1,0 +1,6 @@
+{
+  "intents": {
+    "summarize": ["SummarizerAgent"],
+    "default": ["SummarizerAgent"]
+  }
+}

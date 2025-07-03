@@ -1,0 +1,33 @@
+{
+  "name": "agentsmith",
+  "version": "0.1.0",
+  "description": "MrSmith is a modular, extensible AI agent framework built in Node.js for orchestrating LLM-based agents.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "dev": "ts-node src/index.ts",
+    "build": "tsc",
+    "test": "echo \"No tests yet\"",
+    "start": "node dist/index.js"
+  },
+  "keywords": [
+    "ai",
+    "agent",
+    "framework",
+    "openai",
+    "ollama",
+    "typescript"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "dotenv": "^16.4.5",
+    "openai": "^4.25.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.30",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.2"
+  }
+}

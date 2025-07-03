@@ -1,0 +1,11 @@
+{
+  "default": "openai",
+  "providers": {
+    "openai": {
+      "apiKey": "ENV:OPENAI_API_KEY"
+    },
+    "ollama": {
+      "baseUrl": "ENV:OLLAMA_BASE_URL"
+    }
+  }
+}

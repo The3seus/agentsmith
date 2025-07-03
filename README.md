@@ -123,6 +123,3 @@ zip -r AgentSmith.zip . \
   -x "node_modules/*" "dist/*" ".env" "*.log"
 ```
 
-This will produce `AgentSmith.zip` containing your clean, ready-to-publish package—with updated metadata, README, and scripts.
-
-Happy coding, and may MrSmith serve you well!

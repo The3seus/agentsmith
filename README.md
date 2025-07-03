@@ -4,8 +4,6 @@
 **MrSmith** (aka AgentSmith) is a modular, extensible AI agent framework built in Node.js and TypeScript.  
 It streamlines the creation and orchestration of AI agents that integrate with LLMs like OpenAI or Ollama.
 
-Visit the website: https://theeseus.dev
-
 ---
 
 ## Features
